@@ -1,2 +1,4 @@
-# python_design_patterns
 python implementation of design patterns.
+
+motivated by examples from https://refactoring.guru/
+
