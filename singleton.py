@@ -1,6 +1,7 @@
 
 # decorator approach
 
+
 def singleton_decorator(cls):
     _instance = {}
 
@@ -21,6 +22,7 @@ class SingletonOne:
 # -----------------------------
 
 # __new__ approach
+
 
 class SingletonTwo(object):
     _instance = None
